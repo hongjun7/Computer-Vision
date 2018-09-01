@@ -1,3 +1,3 @@
 # Computer-Vision
 
-Resources for Competitive Programming
+Resources for Computer Vision.
