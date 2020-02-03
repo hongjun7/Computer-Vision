@@ -6,7 +6,7 @@ Lectures for Computer Vision
 1. [MIT 6.S191 Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 
-Resources for Computer Vision.
+Resources for Computer Vision
 
 1. [Fundamentals of Computer Vision by_Mubarak Shah](https://github.com/hongjun7/Computer-Vision/blob/master/materials/fundamentals%20of%20computer%20vision_Mubarak%20Shah.PDF)
 2. [Neural Networks and Deep Learning by Michael Nielsen](https://github.com/hongjun7/Computer-Vision/blob/master/materials/Neural_Networks_and_Deep_Learning_Michael_Nielsen.pdf)
